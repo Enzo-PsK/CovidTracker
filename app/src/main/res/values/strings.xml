@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CovidTracker</string>
+    <string name="state">State</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="max">Max</string>
+    <string name="negative">Negative</string>
+    <string name="positive">Positive</string>
+    <string name="death">Death</string>
+    <string name="placeholder_metricLabel">4,354</string>
+    <string name="placeholder_dateLabel">May 30, 2020</string>
+</resources>
